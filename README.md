@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I'm Pavel
 
 <!--
 **prybalko/prybalko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🇫🇮 I live in Helsinki, Finland.
+- 🦀 I'm an engineer at [Parity Technologies](https://parity.io).
+- 🔭 I’m currently working on [Polkadot Vault](https://wiki.polkadot.network/docs/polkadot-vault).
+- 🤖 Most of the time I'm writing on Rust, Python and Go. Sometimes JavaScript.
+- ✉️ You can shoot me an email at [me@prybalko.com](mailto:me@prybalko.com).
